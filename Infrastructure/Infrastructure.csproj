@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Data\migrations\" />
+    <Folder Include="DataSeed\" />
   </ItemGroup>
 
   <PropertyGroup>
